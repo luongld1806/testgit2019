@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace testgit2019
 {
-    public class HIHI
+    public class hihi
     {
     }
 }
