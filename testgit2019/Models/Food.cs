@@ -14,5 +14,6 @@ namespace testgit2019.Models
         public int CookDuration  {get; set;}
         public int BranchId {get; set;}
         public int ServeUnit {get; set;}
+        public int Status { get; set; }
     }
 }
