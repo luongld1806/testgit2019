@@ -1,0 +1,70 @@
+tất cả đều có trướng status
+
+Branch
+    Id
+    Name
+    Location
+
+
+User : IdentityUser
+    DisplayName 
+    Avatar
+    Sex
+    Phone
+    Address
+    Role
+    IsVegan????
+
+BranchManager
+    UserId
+    BranchId    
+
+Category
+    Id
+    Name
+    Image
+
+Food
+    Id
+    Name
+    Image
+    Price
+    CookDuration
+    BranchId    nullable
+    ServeUnit
+
+CategoryDetail
+    FoodId
+    CategoryId
+
+Table
+    Id
+    Name 
+    Type (Enum { Public : Private })
+    BranchId
+    NumberOfGuest
+
+Order
+    Id
+    UserId
+    Price
+    Created-at
+
+OrderDetail
+    OrderId
+    Price
+    FoodId
+    Quantity
+
+Reservation
+    Id
+    UserId
+    ReserAt
+    ReserDate
+    TableId
+    NumberOfGuest
+
+ReservationDetail
+    ReservationId
+    FoodId
+    Quantity

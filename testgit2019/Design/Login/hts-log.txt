@@ -1,0 +1,108 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 29 Dec 2022 09:12:31 at https://www.bootstrapdash.com/my-account +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.bootstrapdash.com/my-account -O1 "D:\ASP.NET\Tunga\Login" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:13:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/xmlrpc.php (from https://www.bootstrapdash.com/my-account)
+09:13:30	Error: 	"Not Found" (404) at link https://www.bootstrapdash.com/cookies.js (from https://www.bootstrapdash.com/my-account)
+09:13:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/xmlrpc.php?rsd (from https://www.bootstrapdash.com/my-account)
+09:13:30	Warning: 	Moved Permanently for https://www.bootstrapdash.com/?p=5448
+09:13:30	Warning: 	File has moved from https://www.bootstrapdash.com/?p=5448 to https://www.bootstrapdash.com/my-account
+09:14:23	Warning: 	Moved Permanently for https://www.bootstrapdash.com/ui-kit/
+09:14:23	Warning: 	File has moved from https://www.bootstrapdash.com/ui-kit/ to https://www.bootstrapdash.com/ui-kit
+09:14:25	Warning: 	Moved Permanently for https://www.bootstrapdash.com/laravel-templates/
+09:14:25	Warning: 	File has moved from https://www.bootstrapdash.com/laravel-templates/ to https://www.bootstrapdash.com/laravel-templates
+09:14:25	Warning: 	Moved Permanently for https://www.bootstrapdash.com/angular-admin-templates/
+09:14:25	Warning: 	File has moved from https://www.bootstrapdash.com/angular-admin-templates/ to https://www.bootstrapdash.com/angular-admin-templates
+09:14:26	Warning: 	Moved Permanently for https://www.bootstrapdash.com/react-admin-templates/
+09:14:26	Warning: 	File has moved from https://www.bootstrapdash.com/react-admin-templates/ to https://www.bootstrapdash.com/react-admin-templates
+09:14:27	Warning: 	Moved Permanently for https://www.bootstrapdash.com/vue-admin-templates/
+09:14:27	Warning: 	File has moved from https://www.bootstrapdash.com/vue-admin-templates/ to https://www.bootstrapdash.com/vue-admin-templates
+09:14:27	Error: 	Exit requested by shell or user
+09:14:28	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/vue-admin-templates
+09:14:28	Warning: 	Moved Permanently for https://www.bootstrapdash.com/material-design-dashboard/
+09:14:28	Warning: 	File has moved from https://www.bootstrapdash.com/material-design-dashboard/ to https://www.bootstrapdash.com/material-design-dashboard
+09:14:28	Warning: 	Moved Permanently for https://www.bootstrapdash.com/html5-basic-template/
+09:14:28	Warning: 	File has moved from https://www.bootstrapdash.com/html5-basic-template/ to https://www.bootstrapdash.com/html5-basic-template
+09:14:29	Warning: 	Moved Permanently for https://www.bootstrapdash.com/bootstrap-free-admin-templates/
+09:14:29	Warning: 	File has moved from https://www.bootstrapdash.com/bootstrap-free-admin-templates/ to https://www.bootstrapdash.com/bootstrap-free-admin-templates
+09:14:29	Warning: 	Moved Permanently for https://www.bootstrapdash.com/free-ui-kits/
+09:14:29	Warning: 	File has moved from https://www.bootstrapdash.com/free-ui-kits/ to https://www.bootstrapdash.com/free-ui-kits
+09:14:29	Warning: 	Moved Permanently for https://www.bootstrapdash.com/product/material-design-template-free/
+09:14:29	Warning: 	File has moved from https://www.bootstrapdash.com/product/material-design-template-free/ to https://www.bootstrapdash.com/product/material-design-template-free
+09:14:29	Warning: 	Moved Permanently for https://www.bootstrapdash.com/free-landing-page-templates/
+09:14:29	Warning: 	File has moved from https://www.bootstrapdash.com/free-landing-page-templates/ to https://www.bootstrapdash.com/free-landing-page-templates
+09:14:30	Warning: 	Moved Permanently for https://www.bootstrapdash.com/premium-admin-templates/
+09:14:30	Warning: 	File has moved from https://www.bootstrapdash.com/premium-admin-templates/ to https://www.bootstrapdash.com/premium-admin-templates
+09:14:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/mega-bundle/ (from https://www.bootstrapdash.com/my-account)
+09:14:30	Warning: 	Moved Permanently for https://www.bootstrapdash.com/custom-ui-development/
+09:14:30	Warning: 	File has moved from https://www.bootstrapdash.com/custom-ui-development/ to https://www.bootstrapdash.com/custom-ui-development
+09:14:30	Warning: 	Moved Permanently for https://www.bootstrapdash.com/blog/
+09:14:30	Warning: 	File has moved from https://www.bootstrapdash.com/blog/ to https://www.bootstrapdash.com/blog
+09:14:30	Warning: 	Moved Permanently for https://www.bootstrapdash.com/about-us/
+09:14:30	Warning: 	File has moved from https://www.bootstrapdash.com/about-us/ to https://www.bootstrapdash.com/about-us
+09:14:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/affiliate/ (from https://www.bootstrapdash.com/my-account)
+09:14:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/license/ (from https://www.bootstrapdash.com/my-account)
+09:14:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/terms-conditions/ (from https://www.bootstrapdash.com/my-account)
+09:14:30	Warning: 	Moved Permanently for https://www.bootstrapdash.com/privacy-policy/
+09:14:30	Warning: 	File has moved from https://www.bootstrapdash.com/privacy-policy/ to https://www.bootstrapdash.com/privacy-policy
+09:14:30	Warning: 	Moved Permanently for https://www.bootstrapdash.com/cookie-policy/
+09:14:30	Warning: 	File has moved from https://www.bootstrapdash.com/cookie-policy/ to https://www.bootstrapdash.com/cookie-policy
+09:14:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/xmlrpc.php (from https://www.bootstrapdash.com/my-account)
+09:14:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/wp-content/themes/bootstradash/images/bundle-3.jpg (from https://www.bootstrapdash.com/wp-content/themes/bootstradash/assets/css/page.css?ver=5.7.8)
+09:14:30	Error: 	"Not Found" (404) at link https://www.bootstrapdash.com/wp-content/themes/bootstradash/assets/images/mCSB_buttons.png (from https://www.bootstrapdash.com/wp-content/themes/bootstradash/assets/css/ivory-styles.css?ver=5.7.8)
+09:14:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/xmlrpc.php?rsd (from https://www.bootstrapdash.com/my-account)
+09:14:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/wp-content/themes/bootstradash/images/offers/newyearbg.png (from https://www.bootstrapdash.com/)
+09:14:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/wp-content/themes/bootstradash/assets/css/front-page.css?ver=5.7.8 (from https://www.bootstrapdash.com/)
+09:14:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bootstrapdash.com%2F&format=xml (from https://www.bootstrapdash.com/)
+09:14:30	Warning: 	Moved Permanently for https://www.bootstrapdash.com/bootstrap-admin-template/
+09:14:30	Warning: 	File has moved from https://www.bootstrapdash.com/bootstrap-admin-template/ to https://www.bootstrapdash.com/bootstrap-admin-template
+09:14:30	Warning: 	Moved Permanently for https://www.bootstrapdash.com/offers/
+09:14:30	Warning: 	File has moved from https://www.bootstrapdash.com/offers/ to https://www.bootstrapdash.com/offers
+09:14:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/product/angular-bundle (from https://www.bootstrapdash.com/)
+09:14:38	Warning: 	Moved Permanently for https://www.bootstrapdash.com/best-color-schemes-for-admin-templates/
+09:14:38	Warning: 	File has moved from https://www.bootstrapdash.com/best-color-schemes-for-admin-templates/ to https://www.bootstrapdash.com/blog/best-color-schemes-for-admin-templates/
+09:14:38	Warning: 	Moved Permanently for https://www.bootstrapdash.com/angular-dashboard/
+09:14:38	Warning: 	File has moved from https://www.bootstrapdash.com/angular-dashboard/ to https://www.bootstrapdash.com/blog/angular-dashboard/
+09:14:38	Warning: 	Moved Permanently for https://www.bootstrapdash.com/design-systems-and-ui-kits-explained/
+09:14:38	Warning: 	File has moved from https://www.bootstrapdash.com/design-systems-and-ui-kits-explained/ to https://www.bootstrapdash.com/blog/design-systems-and-ui-kits-explained/
+09:14:38	Warning: 	Moved Permanently for https://www.bootstrapdash.com/?p=3942
+09:14:38	Warning: 	File has moved from https://www.bootstrapdash.com/?p=3942 to https://www.bootstrapdash.com/premium-admin-templates
+09:14:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/wp-content/uploads/2020/06/future-ui.jpg (from https://www.bootstrapdash.com/premium-admin-templates)
+09:14:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.bootstrapdash.com/wp-content/themes/bootstradash/images/product-page/bootstrap-bg.webp (from https://www.bootstrapdash.com/bootstrap-admin-template)
+09:14:39	Warning: 	Moved Permanently for https://www.bootstrapdash.com/?p=15713
+09:14:39	Warning: 	File has moved from https://www.bootstrapdash.com/?p=15713 to https://www.bootstrapdash.com/bootstrap-admin-template
+09:14:39	Error: 	"Error when decompressing" (-1) at link https://www.bootstrapdash.com/laravel-templates (from https://www.bootstrapdash.com/laravel-templates/)
+09:14:39	Error: 	Unable to save file D:/ASP.NET/Tunga/Login/www.bootstrapdash.com/laravel-templates: Permission denied
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/mega-bundle/
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/mega-bundle/ (from https://www.bootstrapdash.com/my-account)
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/affiliate/
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/affiliate/ (from https://www.bootstrapdash.com/my-account)
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/license/
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/license/ (from https://www.bootstrapdash.com/my-account)
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/terms-conditions/
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/terms-conditions/ (from https://www.bootstrapdash.com/my-account)
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/xmlrpc.php
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/xmlrpc.php (from https://www.bootstrapdash.com/my-account)
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/wp-content/themes/bootstradash/images/bundle-3.jpg
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/wp-content/themes/bootstradash/images/bundle-3.jpg (from https://www.bootstrapdash.com/wp-content/themes/bootstradash/assets/css/page.css?ver=5.7.8)
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/xmlrpc.php?rsd
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/xmlrpc.php?rsd (from https://www.bootstrapdash.com/my-account)
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/wp-content/themes/bootstradash/images/offers/newyearbg.png
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/wp-content/themes/bootstradash/images/offers/newyearbg.png (from https://www.bootstrapdash.com/)
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/wp-content/themes/bootstradash/assets/css/front-page.css?ver=5.7.8
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/wp-content/themes/bootstradash/assets/css/front-page.css?ver=5.7.8 (from https://www.bootstrapdash.com/)
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bootstrapdash.com%2F&format=xml
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bootstrapdash.com%2F&format=xml (from https://www.bootstrapdash.com/)
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/product/angular-bundle
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/product/angular-bundle (from https://www.bootstrapdash.com/)
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/wp-content/uploads/2020/06/future-ui.jpg
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/wp-content/uploads/2020/06/future-ui.jpg (from https://www.bootstrapdash.com/premium-admin-templates)
+09:14:40	Warning: 	File not added due to mirror cancel: https://www.bootstrapdash.com/wp-content/themes/bootstradash/images/product-page/bootstrap-bg.webp
+09:14:40	Error: 	"mirror stopped by user" (-1) at link https://www.bootstrapdash.com/wp-content/themes/bootstradash/images/product-page/bootstrap-bg.webp (from https://www.bootstrapdash.com/bootstrap-admin-template)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 9 seconds : 272 links scanned, 215 files written (16209834 bytes overall) [7840712 bytes received at 60780 bytes/sec], 10622050 bytes transferred using HTTP compression in 152 files, ratio 18%, 9.5 requests per connection
+(18 errors, 79 warnings, 0 messages)
