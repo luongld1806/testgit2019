@@ -12,7 +12,7 @@ namespace testgit2019.Models
         public DateTime ReservationAt { get; set; }
         public int Status { get; set; }
         [ForeignKey("User")]
-        public int UserId { get; set; }
+        public string UserId { get; set; }
         public User User { get; set; }
         [ForeignKey("Table")]
         public int TableId { get; set; }

@@ -15,5 +15,6 @@ namespace testgit2019.Models
         public int BranchId {get; set;}
         public int ServeUnit {get; set;}
         public int Status { get; set; }
+        public virtual List<CategoryDetail> Categories { get; set; }
     }
 }

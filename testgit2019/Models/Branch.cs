@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using testgit2019.Areas.Identity.Data;
 
 namespace testgit2019.Models
 {
@@ -14,5 +15,6 @@ namespace testgit2019.Models
         public string Location { get; set; }
 
         public int Status { get; set; }
+        public virtual List<User> Users { get; set; }
     }
 }

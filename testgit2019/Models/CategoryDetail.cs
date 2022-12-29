@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace testgit2019.Models
+﻿namespace testgit2019.Models
 {
     public class CategoryDetail
     {
-
+        public int CategoryId { get; set; }
+        public int FoodId { get; set; }
+        public Category Category { get; set; }
+        public Food Food { get; set; }
     }
 }

@@ -12,6 +12,6 @@ namespace testgit2019.Models
         public string Image {get; set;}
         public int Status { get; set; }
 
-        public virtual List<Food> Foods { get; set; }
+        public virtual List<CategoryDetail> Foods { get; set; }
     }
 }
